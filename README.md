@@ -9,7 +9,7 @@
 
 </p>
 
-- 🔭 I’m currently working on **e-bike management**
+- 🔭 I’m currently developing on **e-bike management**
 
 - 🌱 I’m currently learning **SwiftUI**
 
